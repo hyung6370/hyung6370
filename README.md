@@ -15,6 +15,7 @@ ___
 * 🧭 I'm still looking for a my Career Path..🧐
 * 📖 Studying Hard!! ✏️
 </br>
+
 ___
 
 <center>
@@ -28,12 +29,12 @@ ___
 
 Until I'm full of knowledge.
 
-<center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyung6370)](https://github.com/hyung6370/github-readme-stats)
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyung6370&show_icons=true&theme=tokyonight)](https://github.com/hyung6370/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung6370)](https://github.com/hyung6370/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyung6370&show_icons=true&theme=tokyonight)](https://github.com/hyung6370/github-readme-stats)
 
-</center>
+</div>
 
