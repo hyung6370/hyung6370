@@ -45,9 +45,6 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyung6370)](https://solved.ac/hyung6370)
-
-
 <p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
