@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## Hello! 👋🏻 😃 I'm Jun. This is my workspace!!👨🏻‍💻
+## 👋🏻 Hi there! 😃 I'm Jun.</br>This is my workspace!! 👨🏻‍💻
 <p>
 
 
@@ -22,22 +22,46 @@
 
 <p>
 
-* 📚 College Student and Junior Developer 👨🏻‍💻
+* 📚 Univ Student and Junior Web Frontend Developer 👨🏻‍💻
 * 🌱 Growing Slowly... like Cutie Turtle 😂 🐢
-* 🧭 I'm still looking for a my Career Path..🧐
-* 📖 Studying Hard!! ✏️ 🔥
+* ✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃
+* 📖 Study Hard!! ✏️ 🔥
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 </p> 
 
 
 
-<div align="center">
+
 <p>
 
-## _⚡️ A Language of Interest ⚡️_
- <img src="https://img.shields.io/badge/nodeJS-092E20?style=flat-square&logo=node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <br>
-<img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+# **_⚡️ Tech Stack ⚡️_**
+
+**Language** : 
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=#FFD700"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=#FFD700"/></a>
+</br>
+**Front-End** : 
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a> 
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a> 
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#87CEFA"/></a>
+  <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=#87CEFA"/></a>
+</br>
+**UI/UX Design** : 
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=#DC143C"/></a></br>
+**Interested** :
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=#DC143C"/></a>
+<img src="https://img.shields.io/badge/node.js-000000?style=flat-square&logo=node.js&logoColor=#DC143C"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#DC143C"/></a>
+</br>
+
+
+**ETC** : 
+  <img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=#DC143C"/></a> 
+  <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=#DC143C"/></a>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#DC143C"/></a> 
+  </br>
+
 
  ___🧗 Until the empty head is full! 🏆___
 </p>
