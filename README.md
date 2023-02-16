@@ -10,8 +10,9 @@
 <p>
 
 
-<a href="https://www.notion.so/Until-the-EmptyHead-is-Full-4a1542bd3e174478b588d570ddf1f8b8" target="_blank"><img src="https://img.shields.io/badge/NOTION-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="rlagudwns886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlagudwns886@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://emptyhead.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/My Blog-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="rlagudwns886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="korea6370@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
