@@ -14,7 +14,7 @@
 <!-- <a href="rlagudwns886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="korea6370@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a> -->
 
-[![](http://img.shields.io/badge/-MY--BLOG-282828?style=flat-square&logo=Notion&logoColor=white&link=https://emptyhead.oopy.io/)](https://emptyhead.oopy.io/)
+[![](http://img.shields.io/badge/-MY-BLOG-282828?style=flat-square&logo=Notion&logoColor=white&link=https://emptyhead.oopy.io/)](https://emptyhead.oopy.io/)
 [![](http://img.shields.io/badge/-G--mail-E34F26?style=flat-square&logo=gmail&logoColor=white&link=mailto:rlagudwns886@gmail.com)](mailto:rlagudwns886@gmail.com)
 [![](http://img.shields.io/badge/-E--mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:korea6370@naver.com)](mailto:korea6370@naver.com)
 
