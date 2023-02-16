@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/node.js-000000?style=flat-square&logo=node.js&logoColor=#DC143C"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#DC143C"/></a>
 </br>
-
 **ETC** : 
   <img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=#DC143C"/></a> 
   <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=#DC143C"/></a>
