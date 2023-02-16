@@ -35,7 +35,7 @@
 
 <p>
 
-# **_⚡️ Tech Stack ⚡️_**
+## **_⚡️ Tech Stack ⚡️_**
 
 **Language** : 
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
@@ -55,17 +55,17 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#DC143C"/></a>
 </br>
 
-
 **ETC** : 
   <img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=#DC143C"/></a> 
   <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=#DC143C"/></a>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#DC143C"/></a> 
-  </br>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#DC143C"/></a>
+ <img src="https://img.shields.io/badge/slack-000000?style=flat-square&logo=slack&logoColor=#DC143C"/></a> 
+  </br></br>
 
 
  ___🧗 Until the empty head is full! 🏆___
 </p>
- </div>
+
 
 
 
