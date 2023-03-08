@@ -38,7 +38,7 @@
 
 
 
-<p>
+<!-- <p>
 
 ## **_⚡️ Tech Stack ⚡️_**
 
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=#DC143C"/></a>
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=#DC143C"/></a>
  <img src="https://img.shields.io/badge/slack-000000?style=flat-square&logo=slack&logoColor=#DC143C"/></a> 
-  </br></br>
+  </br></br> -->
 
 
  ___🧗 Until the empty head is full! 🏆___
