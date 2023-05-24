@@ -6,7 +6,35 @@
 
 <div align="center">
 
-## 👋🏻 **Hi there! 😃 I'm Jun.</br>This is my workspace!!** 👨🏻‍💻
+## 👋🏻 **Hi there! 😃 I'm Jun.**
+</div>
+
+<p align="left">
+
+```js
+const emptyhead = {
+  code: ["JS", "TS", "C++", "HTML", "TailwindCSS", "Python"],
+  technologies: {
+    frontEnd: {
+      framework: ["React", "NextJS"],
+      state: ["Redux", "Redux-Toolkit"],
+    },
+    backEnd: {
+      server: ["nodeJS", "express"],
+      db: ["MySQL", "MongoDB"],
+    },
+    communication: {
+      tool: ["Notion", "Slack", "Discord"],
+    },
+    etc: ["Git", "Github"],
+  },
+  interesting: ["Algorithm", "Data-Structure", "Clean Code", "Design Pattern"],
+};
+```
+</p>
+
+
+<div align="center">
 <p>
 
 
@@ -68,7 +96,8 @@
 
 
  ___🧗 Until the empty head is full! 🏆___
-</p>
+
+<!-- </p> -->
 
 
 
