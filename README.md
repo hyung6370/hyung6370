@@ -28,7 +28,7 @@ const emptyhead = {
     },
     etc: ["Git", "Github"],
   },
-  interesting: ["Algorithm", "Data-Structure", "Clean Code", "Design Pattern"],
+  interesting: ["Algorithm", "Data-Structure", "Clean Code", "Design Pattern", "API"],
 };
 ```
 </p>
