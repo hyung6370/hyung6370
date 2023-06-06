@@ -17,7 +17,7 @@ const emptyhead = {
   technologies: {
     frontEnd: {
       framework: ["React", "NextJS"],
-      state: ["Redux", "Redux-Toolkit"],
+      state: ["Recoil", "Zustand", "Redux-Toolkit"],
     },
     backEnd: {
       server: ["nodeJS", "express"],
