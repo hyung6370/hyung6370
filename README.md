@@ -107,6 +107,14 @@ const emptyhead = {
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
-| <a href="https://github.com/hyung6370/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyung6370&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hyung6370/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyung6370&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | -->
+ <!-- <a href="https://github.com/hyung6370/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyung6370&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> 
+  -->
+ <!-- | -->
+ <p align="center">
+   <a href="https://github.com/hyung6370/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyung6370&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+ </p>
+
+  <!-- | -->
+<!-- | ------------- | ------------- | -->
 </p>
