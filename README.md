@@ -105,8 +105,12 @@ const emptyhead = {
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
+<p align="center">
+
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyung6370)](https://solved.ac/hyung6370/)|<a href="https://github.com/hyung6370/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyung6370&layout=compact&theme=tokyonight&hide_border=true" /></a>|
 | ------------- | ------------- |
+
+</p>
 </p>
 
 
