@@ -9,11 +9,11 @@
 ## 👋🏻 **Hi there! 😃 I'm Jun.**
 </div>
 
-<p align="left">
+<!-- <p align="left"> -->
 
-```js
+<!-- ```js
 const emptyhead = {
-  code: ["JS", "TS", "C++", "HTML", "TailwindCSS", "Python"],
+  code: ["Swift", "JS", "TS", "C++", "HTML", "TailwindCSS", "Python"],
   technologies: {
     frontEnd: {
       framework: ["React", "NextJS"],
@@ -30,8 +30,8 @@ const emptyhead = {
   },
   interesting: ["Algorithm", "Data-Structure", "Clean Code", "Design Pattern", "API", "Swift"],
 };
-```
-</p>
+``` -->
+<!-- </p> -->
 
 
 <div align="center">
@@ -55,7 +55,7 @@ const emptyhead = {
 
 <p>
 
-* 📚 Univ Student and Junior Web Frontend Developer 👨🏻‍💻
+* 📚 Univ Student and Junior **<i>iOS Developer</i>** 👨🏻‍💻
 * 🌱 Growing Slowly... like Cutie Turtle 😂 🐢
 * ✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃
 * 📖 Study Hard!! ✏️ 🔥
