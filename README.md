@@ -55,6 +55,7 @@ const emptyhead = {
 
 <p>
 
+* 📈 폭풍 성장 중 🥊
 * 📚 Univ Student and Junior **<i>iOS Developer</i>** 👨🏻‍💻
 * 🌱 Growing Slowly... like Cutie Turtle 😂 🐢
 * ✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃
