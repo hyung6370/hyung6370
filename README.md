@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 👋🏻 **Hi there! 😃 I'm Jun.**
+## 👋  🤍🤍 😃
 </div>
 
 <!-- <p align="left"> -->
