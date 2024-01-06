@@ -55,8 +55,7 @@ const emptyhead = {
 
 <p>
 
-* 📈 폭풍 성장 중 🥊
-* 📚 Univ Student and Junior **<i>iOS Developer</i>** 👨🏻‍💻
+* 📈 폭풍 성장 중인 🥊 **<i>iOS Developer</i>** 👨🏻‍💻
 * 🌱 Growing Slowly... like Cutie Turtle 😂 🐢
 * ✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃
 * 📖 Study Hard!! ✏️ 🔥
@@ -96,17 +95,17 @@ const emptyhead = {
   </br></br> -->
 
 
- ___🧗 Until the empty head is full! 🏆___
+ <!-- ___🧗 Until the empty head is full! 🏆___ -->
 
 <!-- </p> -->
 
 
-<p>
+<!-- <p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
-<p align="center">
+<p align="center"> -->
 
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyung6370)](https://solved.ac/hyung6370/)|<a href="https://github.com/hyung6370/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyung6370&layout=compact&theme=tokyonight&hide_border=true" /></a>|
 | ------------- | ------------- |
