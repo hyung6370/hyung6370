@@ -51,7 +51,13 @@ const emptyhead = {
 </p>
 </div>
 
+<p>
 
+## iOS Developer at BizplayPay (2024.04 ~)
+
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p>
 
