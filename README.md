@@ -61,7 +61,7 @@ const emptyhead = {
 
 <p>
 
-* 📈 폭풍 성장 중인 🥊 **<i>iOS Developer</i>** 👨🏻‍💻
+* 📈 It's a growing so fast 🥊 **<i>iOS Developer</i>** 👨🏻‍💻
 * 🌱 Growing Slowly... like Cutie Turtle 😂 🐢
 * ✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃
 * 📖 Study Hard!! ✏️ 🔥
