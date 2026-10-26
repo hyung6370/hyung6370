@@ -54,7 +54,7 @@ const emptyhead = {
 
 <p>
 
-## iOS Developer at BizplayPay (2024.04 ~)
+## iOS Developer at BizplayPay (2024.04 ~ )
 
 </p>
 
@@ -63,7 +63,7 @@ const emptyhead = {
 <p>
 
 * <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
-* 📈 It's a growing so fast 🥊 **<i>iOS Developer</i>** 👨🏻‍💻
+* 📈 Growing so fast! 🥊 from **<i>iOS Developer</i>** to **<i>Product Developer</i>** 👨🏻‍💻
 * 🌱 Growing Slowly... like Cutie Turtle 😂 🐢
 * ✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃
 * 📖 Study Hard!! ✏️ 🔥
